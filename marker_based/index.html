@@ -30,7 +30,7 @@
             <a-marker preset="hiro">
 
                 <a-entity id="box"
-                          geometry="primitive: box; width: 0.25; depth: 0.25; height: 0.25;"
+                          geometry="primitive: box; width: 0.5; depth: 0.5; height: 0.5;"
                           position="0 0 0"
                           material="color: #AC632D">
                 </a-entity>
@@ -52,7 +52,7 @@
                 <a-entity id="annyang" annyang-speech-recognition></a-entity>
                 <a-entity position="0 2 -15" particle-system="preset: snow; particleCount: 10000000"                       
                           visible="false"
-                          speech-command__start="command: snow; type: attribute; attribute: visible; value: true;"
+                          speech-command__start="command: start; type: attribute; attribute: visible; value: true;"
                           speech-command__stop="command: stop; type: attribute; attribute: visible; value: false;">
                 </a-entity>
 
