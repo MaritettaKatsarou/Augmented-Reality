@@ -18,6 +18,9 @@
 ### 3rd step: Απο μελέτη του [A-Frame Particle System](https://www.npmjs.com/package/aframe-particle-system-component) βρήκα το πως εντάσσουμε το χιόνι στο σκηνικό
 ### 4th step: Στη συνέχεια, απο το [NPM](https://www.npmjs.com/) βρήκα τον κώδικα για το [Speech Command](https://www.npmjs.com/package/aframe-speech-command-component)
  *// Σε καποιο ενδιαμεσο σταδιο αποφασησα να αλλαξω και το title σε Maritetta's_MarkerBased για να το κανω πιο personalised //*
+ 
+ *//Γενικότερα, αντιμετώπισα διάφορα θέματα με την εργασία αυτ΄ή και γι'αυτό εχω κάνει και τοσες φορες upload και επειδή ίσως το κυρίως πρόβλημα είναι του laptop μου, ελπίζω να παίζει σε όποιον άλλο το δοκιμάσει//*
+ 
 # 2nd Deliverable
 
 
