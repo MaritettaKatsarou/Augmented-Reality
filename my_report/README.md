@@ -12,12 +12,12 @@
 
 # 1st Deliverable
 ### 1st step: Έγινε η εισαγωγή των σχημάτων με τη βοήθεια του κώδικα απο το: [A-Frame School](https://glitch.com/~aframe-school-position) 
- // έγινε χρήση του εργαλείου μορφοποίησης κώδικα, *(prettier)*, για να είναι πιο ευανάγνωστος //
+ *// έγινε χρήση του εργαλείου μορφοποίησης κώδικα, (prettier), για να είναι πιο ευανάγνωστος //*
 ### 2nd step: Άλλαξα τα χρώματα, τις διαστάσεις και την τοποθεσία κάθε σχήματος 
- // ώστε να είναι "μπλεγμένα" μεταξύ τους και να δημιουργήσουν κάτι που να μοιάζει με μικρόφωνο //
+ *// ώστε να είναι "μπλεγμένα" μεταξύ τους και να δημιουργήσουν κάτι που να μοιάζει με μικρόφωνο //*
 ### 3rd step: Απο μελέτη του [A-Frame Particle System](https://www.npmjs.com/package/aframe-particle-system-component) βρήκα το πως εντάσσουμε το χιόνι στο σκηνικό
 ### 4th step: Στη συνέχεια, απο το [NPM](https://www.npmjs.com/) βρήκα τον κώδικα για το [Speech Command](https://www.npmjs.com/package/aframe-speech-command-component)
-
+ *// Σε καποιο ενδιαμεσο σταδιο αποφασησα να αλλαξω και το title σε Maritetta's_MarkerBased για να το κανω πιο personalised //*
 # 2nd Deliverable
 
 
