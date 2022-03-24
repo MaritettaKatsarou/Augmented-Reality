@@ -1,64 +1,28 @@
 <!DOCTYPE html>
 <html>
-    <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
-    <!-- we import arjs version without NFT but with marker + location based support -->
-    <!--<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>-->
-    <script src="build/aframe-ar.js"></script>
-    
-    <!-- particles system component -->
-    <script src="https://unpkg.com/aframe-particle-system-component@1.0.x/dist/aframe-particle-system-component.min.js"></script>
-    
-    <!-- speech command component -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.5.0/annyang.min.js"></script>
-    <script src="build/aframe-speech-command-component.js"></script>
-
-
-
-    <head>
-        <title>Marker_Based</title>
-    </head> 
-    
-
-    <body style="margin : 0px; overflow: hidden;">
-        <a-scene
-            vr-mode-ui="enabled: false;"
-            renderer="logarithmicDepthBuffer: true;"
-            embedded
-            arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
-
-
-            <a-marker preset="hiro">
-
-                <a-entity id="box"
-                          geometry="primitive: box; width: 0.5; depth: 0.5; height: 0.5;"
-                          position="0 0 0"
-                          material="color: #F2F3F4">
-                </a-entity>
-
-                <a-entity id="sphere"
-                          geometry="primitive: sphere; radius:0.20;"
-                          position="0 0.20 0.40"
-                          material="color: #DF9916">
-                </a-entity>
-                
-                <a-entity id="cylinder"
-                          geometry="primitive: sphere;"
-                          position="0 0.75 1"
-                          radius="0.25"
-                          height="0.75"
-                          color="#F0B27A">
-                </a-cylinder>
-
-                <a-entity id="annyang" annyang-speech-recognition></a-entity>
-                <a-entity position="0 2 -15" particle-system="preset: snow; particleCount: 10000"                       
-                          visible="false"
-                          speech-command__start="command: start; type: attribute; attribute: visible; value: true;"
-                          speech-command__stop="command: stop; type: attribute; attribute: visible; value: false;">
-                </a-entity>
-
-
-            </a-marker>
-        <a-entity camera></a-entity>
-        </a-scene>
-    </body>
+  <head>
+    <title>Hello, WebVR! - A-Frame</title>
+    <meta name="description" content="Hello, WebVR! - A-Frame" />
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+      <a-cylinder
+        position="1 0.75 -3"
+        radius="0.5"
+        height="1.5"
+        color="#FFC65D"
+      ></a-cylinder>
+      <a-plane
+        position="0 0 -4"
+        rotation="-90 0 0"
+        width="4"
+        height="4"
+        color="#7BC8A4"
+      ></a-plane>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
 </html>
