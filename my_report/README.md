@@ -27,6 +27,9 @@
  ![1stmarker](/assets/pattern-MarkerDpsd.png)
  
  *// ούτε το 2ο δεν έπαιζε, έκανα διάφορες δοκιμές που δεν έπιασαν και μετά είπα να δοκιμάσω να βαλω πιο πολυ περιθώριο στο marker μου //*
+ 
+ ### 2nd step: Δημιούργησα την εικόνα που ηθελα να εμφανίζεται στο ProCreate και την ανεβασα στα assets
+ ![card](marker_based/assets/Dpsd19051Card.jpg)
 
 # 3rd Deliverable 
 
