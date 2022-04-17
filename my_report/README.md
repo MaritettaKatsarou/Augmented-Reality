@@ -8,7 +8,7 @@
 # Introduction
 
 # Summary
-### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για να γραψω τον κώδικα.
+### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για να γράψω τον κώδικα.
 
 # 1st Deliverable
 ### 1st step: Έγινε η εισαγωγή των σχημάτων με τη βοήθεια του κώδικα απο το: [A-Frame School](https://glitch.com/~aframe-school-position) 
@@ -22,9 +22,11 @@
  *//Γενικότερα, αντιμετώπισα διάφορα θέματα με την εργασία και γι'αυτό εχω κάνει και τοσες φορες upload και επειδή ίσως το κυρίως πρόβλημα είναι του laptop μου, ελπίζω να παίζει σε όποιον άλλο το δοκιμάσει//* 
  
 # 2nd Deliverable
-### 1st step: Δημιούργησα το marker μου στο [Canva](https://www.canva.com)
+### 1st step: Δημιούργησα το περιεχόμενο του marker μου στο [Canva](https://www.canva.com) και το έκανα upload στο [AR.js Marker Training](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) για να παρω το .patt αρχείο που χρειαζόμαστε.
  *// το 1ο marker ηταν το ακόλουθο, παρόλα αυτά δεν έπαιζε οπότε αποφάσισα να το αλλάξω :thinking://*
  ![1stmarker](/assets/pattern-MarkerDpsd.png)
+ 
+ *// ούτε το 2ο δεν έπαιζε, έκανα διάφορες δοκιμές που δεν έπιασαν και μετά είπα να δοκιμάσω να βαλω πιο πολυ περιθώριο στο marker μου *//
 
 # 3rd Deliverable 
 
