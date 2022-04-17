@@ -15,7 +15,7 @@
 
 
     <head>
-        <title>Marker_Based</title>
+        <title>Maritetta's_MarkerBased</title>
     </head>
 
 
@@ -31,24 +31,26 @@
 
                 <a-entity id="box"
                           geometry="primitive: box; width: 0.5; depth: 0.5; height: 0.5;"
-                          position="1 0 0"
-                          material="color: #F2F3F4">
+                          rotation="0 45 0"
+                          position="0 0.30 0"
+                          material="color: #91592F">
                 </a-entity>
 
                 <a-entity id="sphere"
-                          geometry="primitive: sphere; radius:0.4;"
-                          position="-1.2 0 0"
-                          material="color: #154360">
+                          geometry="primitive: sphere; radius:0.3;"
+                          position="0 1 0"
+                          material="color: #6E665D">
                 </a-entity>
 
-                <a-cylinder position="0 0 0"
+                <a-cylinder position="0 0.5 0"
                             radius="0.2"
-                            height="1"
-                            color="#F0B27A">
+                            height="1.5"
+                            color="#FFAC2D">
                 </a-cylinder>
 
                 <a-entity id="annyang" annyang-speech-recognition></a-entity>
-                <a-entity position="0 2 -15" particle-system="preset: snow; particleCount: 10000"
+
+                <a-entity position="0 2.25 -15" particle-system="preset: snow; particleCount: 10000000"
                           visible="false"
                           speech-command__start="command: start; type: attribute; attribute: visible; value: true;"
                           speech-command__stop="command: stop; type: attribute; attribute: visible; value: false;">
