@@ -23,8 +23,7 @@
  
 # 2nd Deliverable
 ### 1st step: Δημιούργησα το περιεχόμενο του marker μου στο [Canva](https://www.canva.com) και το έκανα upload στο [AR.js Marker Training](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) για να παρω το .patt αρχείο που χρειαζόμαστε.
- *// το 1ο marker ηταν το ακόλουθο, παρόλα αυτά δεν έπαιζε οπότε αποφάσισα να το αλλάξω :thinking://*
- ![1stmarker](/assets/pattern-MarkerDpsd.png)
+ *// το 1ο marker ηταν το ακόλουθο...![1stmarker](/assets/pattern-MarkerDpsd.png) ... εν τέλη, δεν έπαιζε οπότε αποφάσισα να το αλλάξω :thinking://*
  
  *// ούτε το 2ο δεν έπαιζε, έκανα διάφορες δοκιμές που δεν έπιασαν και μετά είπα να δοκιμάσω να βαλω πιο πολυ περιθώριο στο marker μου //*
  
