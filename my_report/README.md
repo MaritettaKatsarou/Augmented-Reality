@@ -8,7 +8,7 @@
 # Introduction
 
 # Summary
-
+### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για να γραψω τον κώδικα.
 
 # 1st Deliverable
 ### 1st step: Έγινε η εισαγωγή των σχημάτων με τη βοήθεια του κώδικα απο το: [A-Frame School](https://glitch.com/~aframe-school-position) 
@@ -22,7 +22,9 @@
  *//Γενικότερα, αντιμετώπισα διάφορα θέματα με την εργασία και γι'αυτό εχω κάνει και τοσες φορες upload και επειδή ίσως το κυρίως πρόβλημα είναι του laptop μου, ελπίζω να παίζει σε όποιον άλλο το δοκιμάσει//* 
  
 # 2nd Deliverable
-
+### 1st step: Δημιούργησα το marker μου στο [Canva](https://www.canva.com)
+ *// το 1ο marker ηταν το ακόλουθο, παρόλα αυτά δεν έπαιζε οπότε αποφάσισα να το αλλάξω :thinking://*
+ ![1stmarker](/assets/pattern-MarkerDpsd.png)
 
 # 3rd Deliverable 
 
