@@ -7,8 +7,8 @@
 
 # Introduction
 
-# Summary
-### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για να γράψω τον κώδικα.
+# Summary -notes-
+### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για την σύνταξη του κώδικα.
 
 # :cherry_blossom: 1st Deliverable
 ### :pushpin: 1st step: Έγινε η εισαγωγή των σχημάτων με τη βοήθεια του κώδικα απο το: [A-Frame School](https://glitch.com/~aframe-school-position) 
