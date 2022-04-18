@@ -7,7 +7,7 @@
 
 # Introduction
 
-# Summary -notes-
+# ~~Summary~~ Notes
 ### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για την σύνταξη του κώδικα.
 
 # :cherry_blossom: 1st Deliverable
