@@ -10,7 +10,7 @@
 # Summary
 ### Για όλα τα deliverables χρησιμοποιήθηκε το [Atom](https://atom.io) για να γράψω τον κώδικα.
 
-# 1st Deliverable
+# :cherry_blossom: 1st Deliverable
 ### 1st step: Έγινε η εισαγωγή των σχημάτων με τη βοήθεια του κώδικα απο το: [A-Frame School](https://glitch.com/~aframe-school-position) 
  *// έγινε χρήση του εργαλείου μορφοποίησης κώδικα, (prettier), για να είναι πιο ευανάγνωστος //*
 ### 2nd step: Άλλαξα τα χρώματα, τις διαστάσεις και την τοποθεσία κάθε σχήματος 
@@ -21,17 +21,17 @@
  
  *//Γενικότερα, αντιμετώπισα διάφορα θέματα με την εργασία και γι'αυτό εχω κάνει και τοσες φορες upload και επειδή ίσως το κυρίως πρόβλημα είναι του laptop μου, ελπίζω να παίζει σε όποιον άλλο το δοκιμάσει//* 
  
-# 2nd Deliverable
+# :cherry_blossom: 2nd Deliverable
 ### 1st step: Δημιούργησα το περιεχόμενο του marker μου στο [Canva](https://www.canva.com) και το έκανα upload στο [AR.js Marker Training](https://ar-js-org.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) για να παρω το .patt αρχείο που χρειαζόμαστε.
  *// το 1ο marker δεν έπαιζε οπότε αποφάσισα να το αλλάξω :thinking://*
  
- *// ούτε το 2ο δεν έπαιζε, έκανα διάφορες δοκιμές που δεν έπιασαν και μετά είπα να δοκιμάσω να βαλω πιο πολυ περιθώριο στο marker μου το οποίο επίσης δεν λειτούργησε. Μετά είδα σε κάποιο chat στο GitHub πως σε ένα άτομο που είχε παρόμοιο πρόβλημα με εμένα του πρότειναν να βάλει στο marker του background color το (240,240,240) που είναι γκρί οπότε το δοκίμασα και εγώ και δούλεψε) //*
+ *// ούτε το 2ο δεν έπαιζε :weary: έκανα διάφορες δοκιμές που δεν έπιασαν και μετά είπα να δοκιμάσω να βαλω πιο πολυ περιθώριο στο marker μου το οποίο επίσης δεν λειτούργησε. Μετά είδα σε κάποιο chat στο GitHub πως σε ένα άτομο που είχε παρόμοιο πρόβλημα με εμένα του πρότειναν να βάλει στο marker του background color το (240,240,240) δλδ γκρί οπότε το δοκίμασα και εγώ και δούλεψε) :+1: //*
  
- ### 2nd step: Δημιούργησα την εικόνα που ηθελα να εμφανίζεται με τη χρήση του ProCreate στο ipad και την ανεβασα στα assets
- ![card](marker_based/assets/Dpsd19051Card.jpg)
+ ### 2nd step: Δημιούργησα την εικόνα που ηθελα να εμφανίζεται με τη χρήση του ProCreate στο ipad και την ανεβασα στα assets αφού πρώτα την έκανα reverse μέσω του [ResizePixel](https://www.resizepixel.com/mirror-image)
+ ![card](marker_based/assets/Dpsd19051CardReversed.png)
  
 
-# 3rd Deliverable 
+# :cherry_blossom: 3rd Deliverable 
 
 
 
