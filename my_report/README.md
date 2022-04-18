@@ -34,8 +34,8 @@
 # :cherry_blossom: 3rd Deliverable 
 
 
-
 # Conclusions
 
 
-# Sources
+# Sources: are linked throughout the text
+ <div align="center">:cherry_blossom: :cherry_blossom: :cherry_blossom:
