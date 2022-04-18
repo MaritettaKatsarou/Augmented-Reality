@@ -37,5 +37,5 @@
 # Conclusions
 
 
-# Sources: are linked throughout the text
+# Sources are linked throughout the text
  <div align="center">:cherry_blossom: :cherry_blossom: :cherry_blossom:
