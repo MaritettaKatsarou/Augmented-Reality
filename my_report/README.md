@@ -29,7 +29,7 @@
  ![card](scrnshot.png)
  Βέβαια δεν το έκανα upload στο link που αναφέρει
  
- ### :pushpin: 2nd step: Δημιούργησα την παρακάτω εικόνα που ήθελα να εμφανίζεται (με τη χρήση του ProCreate στο ipad και την ανεβασα στα assets αφού πρώτα την έκανα reverse μέσω του [ResizePixel](https://www.resizepixel.com/mirror-image) )
+ ### :pushpin: 2nd step: Δημιούργησα την παρακάτω εικόνα που ήθελα να εμφανίζεται (με τη χρήση του ProCreate στο ipad και την ανεβασα στα assets αφού πρώτα την έκανα reverse μέσω του [ResizePixel](https://www.resizepixel.com/mirror-image) γιατί αλλιώς φαινόταν ανάποδα )
  ![card](Dpsd19051Card.png)
  
 
