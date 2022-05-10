@@ -32,6 +32,7 @@
  ### :pushpin: 2nd step: Δημιούργησα την παρακάτω εικόνα που ήθελα να εμφανίζεται (με τη χρήση του ProCreate στο ipad και την ανεβασα στα assets αφού πρώτα την έκανα reverse μέσω του [ResizePixel](https://www.resizepixel.com/mirror-image) γιατί αλλιώς φαινόταν ανάποδα )
  ![card](Dpsd19051Card.png)
  
+ note: πρόβλημα με το marker page, τριτη 10/05 απο τις 9:30 και μετα
 
 # :cherry_blossom: 3rd Deliverable 
 
