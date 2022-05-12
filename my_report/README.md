@@ -39,6 +39,10 @@
  :interrobang: χάλασε όλος ο κώδικας και προσπάθησα με δίαφορους τρόπους να το φτιάξω, χωρίς μεγάλη επιτυχία, εν τέλη πήρα απο το ιστορικό των uploads εναν παλιό μου κώδικα που δούλευαν όλα καλά αλλά τωρα δεν παίζει απόλυτα σωστά. Ελπίζω να μετρήσει το οτι τουλάχιστον έφτιαξα τα γραφικά του deliverable και απλά για κάποιο λόγο ο κώδικας δεν παίζει. :interrobang:
  
  ### :pushpin: 3rd step: Δημιούργησα τα animation μου στο Blender και τα έκανα export σε .mov , .mp4 και μετά μετατροπή .gif για να δοκιμάσω σε ποιά μορφή θα μου τα έπαιζε transparent. Για την μετατροπή χρησιμοποίησα την ιστοσελίδα [MOV to GIF](https://www.onlineconverter.com/mov-to-gif)
+ Απο τα παρακάτω βίντεο βοηθήθηκα για οτι αφορά το Blender:
+ [Export Video with Transparent Background in Blender 2.9/2.8](https://www.youtube.com/watch?v=4emIy6vevcI)
+ [How to create water drop dance in blender easily](https://www.youtube.com/watch?v=8wB265I_MH0)
+ 
  *// έψαξα λίγο και βρήκα πως το mp4 δεν γίνεται να παίξει σε transparent αλλά το άφησα στα assets γιατί αν δεν αναγνωρίζει τις άλλες μορφές να έχω μια εναλλακτική και ας φαίνεται και το background //*
  
  ![H](AnimatedCube_H.gif)
