@@ -38,7 +38,7 @@
  
  ![H](AnimatedCube_H.gif)
  
- ![O](AnimatedCube_O.gif)
+ ![O](AnimatedCube-O0001-0030.gif)
  
  
 
