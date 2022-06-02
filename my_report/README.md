@@ -77,6 +77,8 @@
 ![screenshot2](Sintetagmenes.png)
 
 
+Για το syros.html ήθελα να ασχοληθώ με την προβλήτα που δένουν τα κρουαζιερόπλοια, έξω απο το τελωνείο.
+
 # Conclusions
 
 
