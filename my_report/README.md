@@ -82,6 +82,8 @@
 
 ![screenshot3](Syros_sintetagmenes.PNG)
 
+
+(note6: Πέμπτη 02/06 - Αντιμετωπίζω πρόβλημα με το location_based. Μου δείχνει συνέχεια οτι φορτώνει αλλά δεν ανοίγει)
 # Conclusions
 
 
