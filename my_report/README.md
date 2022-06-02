@@ -84,6 +84,7 @@
 
 
 (note6: Πέμπτη 02/06 - Αντιμετωπίζω πρόβλημα με το location_based. Μου δείχνει συνέχεια οτι φορτώνει αλλά δεν ανοίγει)
+![screenshot4](Loading_Page.png)
 # Conclusions
 
 
