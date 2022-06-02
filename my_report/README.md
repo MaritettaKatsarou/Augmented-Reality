@@ -69,8 +69,12 @@
 
 # :cherry_blossom: 3rd Deliverable 
 
-Για το 3ο deliverable αρχικά πρόσθεσα το παρακάτω στοιχείο (φτιαγμένο στο blender)με τις συντεταγμένες για ενα τυχαίο telephone booth.
+Για το 3ο deliverable αρχικά πρόσθεσα το παρακάτω στοιχείο (φτιαγμένο στο blender) με τις συντεταγμένες για ενα τυχαίο telephone booth.
 ![screenshot](LND_Screenshot.png)
+
+
+Τις συντεταγμένες τις βρήκα στο Google και είναι οι εξής:
+![screenshot2](Sintetagmenes.png)
 
 
 # Conclusions
