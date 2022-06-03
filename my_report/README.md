@@ -94,6 +94,10 @@
 
 :link: Για το έτοιμο 3D πλοίο που σκόπευα να βάλω στο syros.html το κατέβασα απο το [Free3D](https://free3d.com/3d-model/suncruiser-caribean-cruiser-ship-93957.html)
 
+![screenshot5](ShipFiles.png)
+
+Ολα τα αρχεία με :small_orange_diamond: αφορούν το πλοίο (δεν ξέρω αν ήταν απαραίτητα όλα, δεν κατάφερα να βγάλω άκρη)
+
 # Conclusions
 
 
